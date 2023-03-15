@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Desafiop Anderson\bin\Debug\net7.0\DesafioAnderson.exe
+C:\Users\Aluno\Desktop\Desafiop Anderson\bin\Debug\net7.0\DesafioAnderson.deps.json
+C:\Users\Aluno\Desktop\Desafiop Anderson\bin\Debug\net7.0\DesafioAnderson.runtimeconfig.json
+C:\Users\Aluno\Desktop\Desafiop Anderson\bin\Debug\net7.0\DesafioAnderson.dll
+C:\Users\Aluno\Desktop\Desafiop Anderson\bin\Debug\net7.0\DesafioAnderson.pdb
+C:\Users\Aluno\Desktop\Desafiop Anderson\obj\Debug\net7.0\DesafioAnderson.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Desafiop Anderson\obj\Debug\net7.0\DesafioAnderson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Desafiop Anderson\obj\Debug\net7.0\DesafioAnderson.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Desafiop Anderson\obj\Debug\net7.0\DesafioAnderson.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Desafiop Anderson\obj\Debug\net7.0\DesafioAnderson.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Desafiop Anderson\obj\Debug\net7.0\DesafioAnderson.dll
+C:\Users\Aluno\Desktop\Desafiop Anderson\obj\Debug\net7.0\refint\DesafioAnderson.dll
+C:\Users\Aluno\Desktop\Desafiop Anderson\obj\Debug\net7.0\DesafioAnderson.pdb
+C:\Users\Aluno\Desktop\Desafiop Anderson\obj\Debug\net7.0\DesafioAnderson.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Desafiop Anderson\obj\Debug\net7.0\ref\DesafioAnderson.dll
