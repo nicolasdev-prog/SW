@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\ExerciciosAluno\bin\Debug\net7.0\ExerciciosAluno.exe
+C:\Users\Aluno\Desktop\ExerciciosAluno\bin\Debug\net7.0\ExerciciosAluno.deps.json
+C:\Users\Aluno\Desktop\ExerciciosAluno\bin\Debug\net7.0\ExerciciosAluno.runtimeconfig.json
+C:\Users\Aluno\Desktop\ExerciciosAluno\bin\Debug\net7.0\ExerciciosAluno.dll
+C:\Users\Aluno\Desktop\ExerciciosAluno\bin\Debug\net7.0\ExerciciosAluno.pdb
+C:\Users\Aluno\Desktop\ExerciciosAluno\obj\Debug\net7.0\ExerciciosAluno.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ExerciciosAluno\obj\Debug\net7.0\ExerciciosAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\ExerciciosAluno\obj\Debug\net7.0\ExerciciosAluno.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\ExerciciosAluno\obj\Debug\net7.0\ExerciciosAluno.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\ExerciciosAluno\obj\Debug\net7.0\ExerciciosAluno.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ExerciciosAluno\obj\Debug\net7.0\ExerciciosAluno.dll
+C:\Users\Aluno\Desktop\ExerciciosAluno\obj\Debug\net7.0\refint\ExerciciosAluno.dll
+C:\Users\Aluno\Desktop\ExerciciosAluno\obj\Debug\net7.0\ExerciciosAluno.pdb
+C:\Users\Aluno\Desktop\ExerciciosAluno\obj\Debug\net7.0\ExerciciosAluno.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\ExerciciosAluno\obj\Debug\net7.0\ref\ExerciciosAluno.dll
